@@ -1,0 +1,17 @@
+.footer-info {
+  background-color: black; 
+}
+
+.footer-info h4 {
+  color: red; 
+  margin-bottom: 5px;
+}
+
+.footer-info p {
+  font-size: 15px;
+}
+
+.footer-info a {
+  color: white; 
+  text-decoration: none; 
+}

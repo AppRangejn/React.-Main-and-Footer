@@ -1,0 +1,38 @@
+.movie-about {
+    padding: 40px 20px;
+    margin: 0 auto; 
+}
+
+.movie-about h2 {
+    font-size: 40px;
+}
+
+.movie-info {
+    background-color: rgba(0, 0, 0, 0.342); 
+    padding: 20px;
+}
+
+.movie-info p {
+    font-size: 22px;
+    text-align: left;
+}
+
+.movie-about h3 {
+    font-size: 35px;
+    color: red; 
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+.movie-description p {
+    font-size: 20px;
+    text-align: left;
+}
+
+.movie-actors {
+    text-align: left;
+}
+
+.movie-actors p {
+  font-size: 20px;
+}
